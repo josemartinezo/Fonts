@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fonts</string>
+    <string name="helloSans">Sans Hello! Androide</string>
+    <string name="helloSerif">Serif Hello! Androide</string>
+    <string name="helloMonospace">Monospace Hello! Androide</string>
+    <string name="helloStocky">Stocky Hello! Androide</string>
+</resources>
